@@ -11,5 +11,5 @@
 * [Sea Code (5)](crypto/sea_code.md)
 * [Merde (5)](crypto/merde.md)
 * [s̸͖̾̀͊͠h̸̜̒ï̷̧̲͙̭̤͛͒̋t̷̢̲͚͖̑͜ (10)](crypto/shit.md)
-* [Scheiße (10)](crypto/sceibe.md)
+* [Scheiße (10)](crypto/scheibe.md)
 * [flawed (10)](crypto/flawed.md)
