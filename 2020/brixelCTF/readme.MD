@@ -2,6 +2,7 @@
 
 ### Forensics
 * [A message from space (10)](forensics/a_message_from_space.md)
+* [Lottery ticket (10)](forensics/Lotter_ticket.md)
 
 ### OSINT
 * [Manhunt #1 (5)](osint/manhunt-1.md)
