@@ -18,9 +18,7 @@ Description:
 
 The first step is you need to download the jpg file
 
-As said in the challenge the image is photoshopped
-
-So I used a small java tool called Stegsolve
+As said in the challenge the image is photoshopped so I used a small java tool called Stegsolve
 
 It applies some color filters or play with the color levels of the image.
 
