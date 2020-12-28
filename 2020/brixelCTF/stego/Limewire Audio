@@ -1,0 +1,37 @@
+Limewire audio
+
+Category: Steganography
+
+Points: 10
+
+Description:
+
+I downloaded this sweet tune from limewire, but there's something weird going on
+
+can you find the hidden message?
+
+The flag is the name of the character in english, no spaces!
+
+Solution
+
+The first step is you need to download the WAV file
+
+As said in the challenge there's a hidden message in the audio 
+
+So I used a program that helps to analyse and visualize audio which is called Sonic Visualiser
+
+Open the wav file then click the layer from the navigation bar and add spectrogram 
+
+![limewire](https://user-images.githubusercontent.com/74707908/103221604-0126b700-495e-11eb-93e8-4e16c216aa8d.PNG)
+
+
+It reveals the english character hello kitty 
+
+
+![limewire1](https://user-images.githubusercontent.com/74707908/103221659-1dc2ef00-495e-11eb-9fd7-74be54fd7d00.PNG)
+
+
+
+The challenge said that the flag has no spaces.
+
+The flag is brixelCTF{hellokitty}
